@@ -9,5 +9,10 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
-    
+    background-color: beige;
+    width: 700px;
+    padding: 13em;
+    margin: 100px;
+    border: 20px;
+
 }
